@@ -1,3 +1,5 @@
+# Important: SurVis is BY NO MEANS my creation. The usage of SurVis to create a live GitHub webpage was the requirement for COMP4037 Research Methods Coursework 3, Spring 2024 at the University of Nottingham. All courtesy, credits and rights belong to the people mentioned below in the original readme file.
+
 # SurVis - Visual Literature Browser
 
 ![Screenshot](/doc/survis.png)
